@@ -1,0 +1,12 @@
+D:\C#\atestat_prb_3\bin\Debug\Database1.mdf
+D:\C#\atestat_prb_3\bin\Debug\Database1_log.ldf
+D:\C#\atestat_prb_3\bin\Debug\atestat_prb_3.exe.config
+D:\C#\atestat_prb_3\bin\Debug\atestat_prb_3.exe
+D:\C#\atestat_prb_3\bin\Debug\atestat_prb_3.pdb
+D:\C#\atestat_prb_3\obj\Debug\atestat_prb_3.csproj.AssemblyReference.cache
+D:\C#\atestat_prb_3\obj\Debug\atestat_prb_3.Form1.resources
+D:\C#\atestat_prb_3\obj\Debug\atestat_prb_3.Properties.Resources.resources
+D:\C#\atestat_prb_3\obj\Debug\atestat_prb_3.csproj.GenerateResource.cache
+D:\C#\atestat_prb_3\obj\Debug\atestat_prb_3.csproj.CoreCompileInputs.cache
+D:\C#\atestat_prb_3\obj\Debug\atestat_prb_3.exe
+D:\C#\atestat_prb_3\obj\Debug\atestat_prb_3.pdb

@@ -1,0 +1,12 @@
+D:\C#\atestat_prb_14\bin\Debug\Database1.mdf
+D:\C#\atestat_prb_14\bin\Debug\Database1_log.ldf
+D:\C#\atestat_prb_14\bin\Debug\atestat_prb_14.exe.config
+D:\C#\atestat_prb_14\bin\Debug\atestat_prb_14.exe
+D:\C#\atestat_prb_14\bin\Debug\atestat_prb_14.pdb
+D:\C#\atestat_prb_14\obj\Debug\atestat_prb_14.csproj.AssemblyReference.cache
+D:\C#\atestat_prb_14\obj\Debug\atestat_prb_14.Form1.resources
+D:\C#\atestat_prb_14\obj\Debug\atestat_prb_14.Properties.Resources.resources
+D:\C#\atestat_prb_14\obj\Debug\atestat_prb_14.csproj.GenerateResource.cache
+D:\C#\atestat_prb_14\obj\Debug\atestat_prb_14.csproj.CoreCompileInputs.cache
+D:\C#\atestat_prb_14\obj\Debug\atestat_prb_14.exe
+D:\C#\atestat_prb_14\obj\Debug\atestat_prb_14.pdb

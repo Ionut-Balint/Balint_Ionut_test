@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="permutari/permutari.cbp" />
+		<Project filename="aranjamente/aranjamente.cbp" />
+		<Project filename="combinari/combinari.cbp" />
+		<Project filename="drum_dintre_varfuri/drum_dintre_varfuri.cbp" />
+		<Project filename="produs_cartezian/produs_cartezian.cbp" />
+		<Project filename="lant_simplu/lant_simplu.cbp" />
+		<Project filename="ciclu_elementar/ciclu_elementar.cbp" />
+		<Project filename="drumuri_elementare/drumuri_elementare.cbp" />
+		<Project filename="drumuri_simple/drumuri_simple.cbp" />
+		<Project filename="roy_warshall/roy_warshall.cbp" />
+		<Project filename="circuite/circuite.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,12 @@
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\bin\Debug\Database1.mdf
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\bin\Debug\Database1_log.ldf
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\bin\Debug\Aplicatia_2.exe.config
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\bin\Debug\Aplicatia_2.exe
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\bin\Debug\Aplicatia_2.pdb
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\obj\Debug\Aplicatia_2.csproj.AssemblyReference.cache
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\obj\Debug\Aplicatia_2.Form1.resources
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\obj\Debug\Aplicatia_2.Properties.Resources.resources
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\obj\Debug\Aplicatia_2.csproj.GenerateResource.cache
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\obj\Debug\Aplicatia_2.csproj.CoreCompileInputs.cache
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\obj\Debug\Aplicatia_2.exe
+C:\lucru\Balint_Ionut_A_X_A\Aplicatia_2\Aplicatia_2\obj\Debug\Aplicatia_2.pdb

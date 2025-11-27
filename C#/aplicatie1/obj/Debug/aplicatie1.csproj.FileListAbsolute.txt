@@ -1,0 +1,70 @@
+D:\C#\aplicatie1\bin\Debug\Database1.mdf
+D:\C#\aplicatie1\bin\Debug\Database1_log.ldf
+D:\C#\aplicatie1\bin\Debug\aplicatie1.exe.config
+D:\C#\aplicatie1\bin\Debug\aplicatie1.exe
+D:\C#\aplicatie1\bin\Debug\aplicatie1.pdb
+D:\C#\aplicatie1\obj\Debug\aplicatie1.csproj.AssemblyReference.cache
+D:\C#\aplicatie1\obj\Debug\aplicatie1.Form1.resources
+D:\C#\aplicatie1\obj\Debug\aplicatie1.Properties.Resources.resources
+D:\C#\aplicatie1\obj\Debug\aplicatie1.csproj.GenerateResource.cache
+D:\C#\aplicatie1\obj\Debug\aplicatie1.csproj.CoreCompileInputs.cache
+D:\C#\aplicatie1\obj\Debug\aplicatie1.exe
+D:\C#\aplicatie1\obj\Debug\aplicatie1.pdb
+D:\C#\aplicatie1\obj\Debug\aplicatie1.Form2.resources
+E:\9a balint ionut\C#\aplicatie1\bin\Debug\Database1.mdf
+E:\9a balint ionut\C#\aplicatie1\bin\Debug\Database1_log.ldf
+E:\9a balint ionut\C#\aplicatie1\bin\Debug\aplicatie1.exe.config
+E:\9a balint ionut\C#\aplicatie1\bin\Debug\aplicatie1.exe
+E:\9a balint ionut\C#\aplicatie1\bin\Debug\aplicatie1.pdb
+E:\9a balint ionut\C#\aplicatie1\obj\Debug\aplicatie1.csproj.AssemblyReference.cache
+E:\9a balint ionut\C#\aplicatie1\obj\Debug\aplicatie1.Form1.resources
+E:\9a balint ionut\C#\aplicatie1\obj\Debug\aplicatie1.Form2.resources
+E:\9a balint ionut\C#\aplicatie1\obj\Debug\aplicatie1.Properties.Resources.resources
+E:\9a balint ionut\C#\aplicatie1\obj\Debug\aplicatie1.csproj.GenerateResource.cache
+E:\9a balint ionut\C#\aplicatie1\obj\Debug\aplicatie1.csproj.CoreCompileInputs.cache
+E:\9a balint ionut\C#\aplicatie1\obj\Debug\aplicatie1.exe
+E:\9a balint ionut\C#\aplicatie1\obj\Debug\aplicatie1.pdb
+I:\C#\aplicatie1\bin\Debug\aplicatie1.exe.config
+I:\C#\aplicatie1\obj\Debug\aplicatie1.exe
+I:\C#\aplicatie1\obj\Debug\aplicatie1.pdb
+I:\C#\aplicatie1\bin\Debug\Database1.mdf
+I:\C#\aplicatie1\bin\Debug\Database1_log.ldf
+I:\C#\aplicatie1\bin\Debug\aplicatie1.exe
+I:\C#\aplicatie1\bin\Debug\aplicatie1.pdb
+I:\C#\aplicatie1\bin\Debug\mscorlib.dll
+I:\C#\aplicatie1\bin\Debug\normidna.nlp
+I:\C#\aplicatie1\bin\Debug\normnfc.nlp
+I:\C#\aplicatie1\bin\Debug\normnfd.nlp
+I:\C#\aplicatie1\bin\Debug\normnfkc.nlp
+I:\C#\aplicatie1\bin\Debug\normnfkd.nlp
+I:\C#\aplicatie1\obj\Debug\aplicatie1.csprojResolveAssemblyReference.cache
+I:\C#\aplicatie1\obj\Debug\aplicatie1.Form1.resources
+I:\C#\aplicatie1\obj\Debug\aplicatie1.Form2.resources
+I:\C#\aplicatie1\obj\Debug\aplicatie1.Properties.Resources.resources
+I:\C#\aplicatie1\obj\Debug\aplicatie1.csproj.GenerateResource.Cache
+E:\C#\aplicatie1\bin\Debug\Database1.mdf
+E:\C#\aplicatie1\bin\Debug\Database1_log.ldf
+E:\C#\aplicatie1\bin\Debug\aplicatie1.exe.config
+E:\C#\aplicatie1\bin\Debug\aplicatie1.exe
+E:\C#\aplicatie1\bin\Debug\aplicatie1.pdb
+E:\C#\aplicatie1\obj\Debug\aplicatie1.csproj.AssemblyReference.cache
+E:\C#\aplicatie1\obj\Debug\aplicatie1.Form1.resources
+E:\C#\aplicatie1\obj\Debug\aplicatie1.Form2.resources
+E:\C#\aplicatie1\obj\Debug\aplicatie1.Properties.Resources.resources
+E:\C#\aplicatie1\obj\Debug\aplicatie1.csproj.GenerateResource.cache
+E:\C#\aplicatie1\obj\Debug\aplicatie1.csproj.CoreCompileInputs.cache
+E:\C#\aplicatie1\obj\Debug\aplicatie1.exe
+E:\C#\aplicatie1\obj\Debug\aplicatie1.pdb
+H:\C#\aplicatie1\bin\Debug\Database1.mdf
+H:\C#\aplicatie1\bin\Debug\Database1_log.ldf
+H:\C#\aplicatie1\bin\Debug\aplicatie1.exe.config
+H:\C#\aplicatie1\bin\Debug\aplicatie1.exe
+H:\C#\aplicatie1\bin\Debug\aplicatie1.pdb
+H:\C#\aplicatie1\obj\Debug\aplicatie1.csproj.AssemblyReference.cache
+H:\C#\aplicatie1\obj\Debug\aplicatie1.Form1.resources
+H:\C#\aplicatie1\obj\Debug\aplicatie1.Form2.resources
+H:\C#\aplicatie1\obj\Debug\aplicatie1.Properties.Resources.resources
+H:\C#\aplicatie1\obj\Debug\aplicatie1.csproj.GenerateResource.cache
+H:\C#\aplicatie1\obj\Debug\aplicatie1.csproj.CoreCompileInputs.cache
+H:\C#\aplicatie1\obj\Debug\aplicatie1.exe
+H:\C#\aplicatie1\obj\Debug\aplicatie1.pdb

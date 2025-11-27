@@ -1,0 +1,12 @@
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\bin\Debug\Database1.mdf
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\bin\Debug\Database1_log.ldf
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\bin\Debug\atestat_prb_18.exe.config
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\bin\Debug\atestat_prb_18.exe
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\bin\Debug\atestat_prb_18.pdb
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\obj\Debug\atestat_prb_18.csproj.AssemblyReference.cache
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\obj\Debug\atestat_prb_18.Form1.resources
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\obj\Debug\atestat_prb_18.Properties.Resources.resources
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\obj\Debug\atestat_prb_18.csproj.GenerateResource.cache
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\obj\Debug\atestat_prb_18.csproj.CoreCompileInputs.cache
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\obj\Debug\atestat_prb_18.exe
+C:\lucru\Balint_Ionut_A_X_A\C#\atestat_prb_18\obj\Debug\atestat_prb_18.pdb

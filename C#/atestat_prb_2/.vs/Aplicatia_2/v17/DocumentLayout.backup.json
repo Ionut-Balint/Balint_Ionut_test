@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9a balint ionut\\C#\\atestat_prb_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{560B7AC0-9D7E-468B-99CA-389572C6CDE6}|Aplicatia_2\\Aplicatia_2.csproj|d:\\9a balint ionut\\c#\\atestat_prb_2\\aplicatia_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560B7AC0-9D7E-468B-99CA-389572C6CDE6}|Aplicatia_2\\Aplicatia_2.csproj|solutionrelative:aplicatia_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560B7AC0-9D7E-468B-99CA-389572C6CDE6}|Aplicatia_2\\Aplicatia_2.csproj|D:\\9a balint ionut\\C#\\atestat_prb_2\\aplicatia_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{560B7AC0-9D7E-468B-99CA-389572C6CDE6}|Aplicatia_2\\Aplicatia_2.csproj|solutionrelative:aplicatia_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__LUCRU_BALINT_IONUT_A_X_A_APLICATIA_2_APLICATIA_2_DATABASE1.MDF/True/SqlTable/dbo.CFR.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.CFR.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__LUCRU_BALINT_IONUT_A_X_A_APLICATIA_2_APLICATIA_2_DATABASE1.MDF/True/SqlTable/dbo.CFR.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__LUCRU_BALINT_IONUT_A_X_A_APLICATIA_2_APLICATIA_2_DATABASE1.MDF/True/SqlTable/dbo.CFR.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-03T08:20:38.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\9a balint ionut\\C#\\atestat_prb_2\\Aplicatia_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplicatia_2\\Form1.cs",
+              "ToolTip": "D:\\9a balint ionut\\C#\\atestat_prb_2\\Aplicatia_2\\Form1.cs",
+              "RelativeToolTip": "Aplicatia_2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:07:45.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\9a balint ionut\\C#\\atestat_prb_2\\Aplicatia_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplicatia_2\\Form1.cs",
+              "ToolTip": "C:\\lucru\\Balint_Ionut_A_X_A\\Aplicatia_2\\Aplicatia_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:02:47.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
